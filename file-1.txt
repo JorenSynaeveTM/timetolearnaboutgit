@@ -6,8 +6,8 @@ Dit is mijn stuk.
 
 Dit is het stuk van Janneke
 
-Naam
-Leeftijd
 Voornaam
+Familienaam
+Leeftijd
 Adres
 Postcode
