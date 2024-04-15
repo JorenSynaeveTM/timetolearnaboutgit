@@ -1,1 +1,5 @@
 Dit is het eerste bestand. Iets aan toevoegen.
+
+Hallo ik ben Mieke
+
+Dit is mijn stuk.
