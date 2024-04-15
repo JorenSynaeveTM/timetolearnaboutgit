@@ -5,3 +5,7 @@ Hallo ik ben Mieke
 Dit is mijn stuk.
 
 Dit is het stuk van Janneke
+
+Naam
+Voornaam
+Familienaam
